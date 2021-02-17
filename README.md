@@ -9,7 +9,7 @@ Howdy.  I'm a DevsecOps Architect at Aqua Security.  My goal using the GitHub pl
 <img src="https://github.com/github/explore/blob/master/topics/aws/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://vectorified.com/images/azure-cloud-icon-6.png" alt="azure" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://www.ibm.com/sports/usopen/img/IBM_Cloud_Icon_BlueTeal_Pos_RGB-min.png" alt="gcp" width="40" height="40"/>
+<img src="https://user-images.githubusercontent.com/300008/32847130-2481e4ac-c9f7-11e7-9962-3d444d5e42da.png" alt="icp" width="40" height="40"/>
 </p>
 
 <!--
