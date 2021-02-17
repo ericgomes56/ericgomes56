@@ -1,6 +1,6 @@
 # Myself
 
-I'm a DevsecOps Architect at Aqua Security. Looking forward to working with you all.
+Hey, thanks for having me.  I'm a DevsecOps Architect at Aqua Security.  My goal here is to help resolve technical problems among the community.  I look forward to collaborating with you all.
 
 <!--
 **ericgomes56/ericgomes56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
