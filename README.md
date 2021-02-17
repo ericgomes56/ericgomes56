@@ -1,6 +1,6 @@
-### Hi there 👋
+# Myself
 
-aws bash docker gcp git go jenkins kubernetes linux vagrant opa istio terraform ansible
+I'm a DevsecOps Architect at Aqua Security. Looking forward to working with you all.
 
 <!--
 **ericgomes56/ericgomes56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
