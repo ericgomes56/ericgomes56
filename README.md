@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+aws bash docker gcp git go jenkins kubernetes linux vagrant opa istio terraform ansible
+
 <!--
 **ericgomes56/ericgomes56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
