@@ -3,7 +3,6 @@
 Howdy.  I'm a DevsecOps Architect at Aqua Security.  My goal using the GitHub platform is to help resolve as many technical problems as I can with you.  I'm looking forward to working with you all!
 
 <p align="left">
-<img src="https://github.com/github/explore/blob/master/topics/linux/linux.png" alt="linux" width="40" height="40"/>
 <img src="https://github.com/github/explore/blob/master/topics/docker/docker.png" alt="docker" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
 <img src="https://github.com/github/explore/blob/master/topics/aws/aws.png" alt="aws" width="40" height="40"/>
