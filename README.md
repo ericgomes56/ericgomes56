@@ -1,6 +1,6 @@
 # Myself
 
-My goal using the GitHub platform is to help resolve as many technical problems as I can with you.  I'm looking forward to working with you all!
+DevSecOps Architect.  My goal using the GitHub platform is to help resolve as many technical problems as I can with you.  I'm looking forward to working with you all!
 
 <!--
 **ericgomes56/ericgomes56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
